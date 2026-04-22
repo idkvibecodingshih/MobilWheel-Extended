@@ -1,0 +1,4 @@
+websockets==12.0
+vgamepad==1.1.0
+aiohttp==3.9.0
+pygame==2.5.2
